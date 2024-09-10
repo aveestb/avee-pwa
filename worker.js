@@ -30,7 +30,7 @@
   },
   github: {
     username: 'aveestb',
-    repository: 'Avee-pwa-github',
+    repository: 'avee-pwa',
     branch: 'main',
     /**
      * If the repository is private, provide token as string

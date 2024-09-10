@@ -1,0 +1,117 @@
+{
+  "version": "1.0",
+  "name": "Aveestb Tech",
+  "short_name": "Aveestb Tech",
+  "description": "Tech news, technology. birthday avee player template, invitation template, earning, blog free, online tool, freelancing, software,  application, apps, mode app, clone apps, and blogger tips and tricks all supporting. blogger theme script free, blogger script, premium theme free, blogger, blogger theme free, clone theme free, clone theme, blogger template free, download free, download",
+  "dir": "auto",
+  "lang": "en-US",
+  "orientation": "any",
+  "start_url": "https://www.aveestb.xyz/?utm_source=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "icons/favicon.ico",
+      "sizes": "16x16 24x24 32x32 64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/screen-1.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "screenshots/screen-2.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "screenshots/screen-3.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "screenshots/screen-4.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "screenshots/screen-5.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Aveestb Tech",
+      "short_name": "Aveestb Tech",
+      "description": "Tech news, technology. earning, blog free, online tool, freelancing, software, and blogger tips and tricks all supporting. blogger theme script free, blogger script, premium theme free, blogger template free",
+      "url": "https://www.aveestb.xyz/search/label/Technology?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Aveestb Tech",
+      "short_name": "Aveestb Tech",
+      "description": "Birthday avee player template, invitation template, earning, download free",
+      "url": "https://www.aveestb.xyz/search/label/Avee%20Template?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
